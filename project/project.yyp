@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "b7e32dc8-29a9-4777-a960-0a099ae5cb56",
+            "Value": {
+                "id": "d072697c-fcc3-4642-94ea-f0447325664e",
+                "resourcePath": "objects\\controller\\controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bd85e5c0-5448-47d7-b205-e40a5fed5b45",
             "Value": {
                 "id": "6803a9ba-fb60-4f37-be90-a53eaf300db8",
