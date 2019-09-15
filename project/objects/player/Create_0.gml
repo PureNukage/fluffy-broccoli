@@ -1,1 +1,1 @@
-movespeed = 15
+movespeed = 10
