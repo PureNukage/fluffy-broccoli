@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "3f73bb5c-8b86-4c30-a7e4-1befb46378e9",
+            "Value": {
+                "id": "cbc92572-5993-494b-bede-4ba6445f0297",
+                "resourcePath": "sprites\\s_Deinonychus\\s_Deinonychus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "567c9ffa-9aae-45b3-bf67-fb7f9b27a807",
             "Value": {
                 "id": "927a924d-1998-44f6-8e1e-ad7d561e3bd9",
