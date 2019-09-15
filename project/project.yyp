@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "1ef71380-b414-4edb-b4e9-f5c29303c464",
+            "Value": {
+                "id": "a510e5fb-4657-4f87-b56a-7f129fabe6b8",
+                "resourcePath": "sprites\\s_gorilla_walk\\s_gorilla_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a9e618d-64ac-470e-bd49-d1623263add7",
             "Value": {
                 "id": "a374f619-2b81-42c2-b1de-dba009321750",
@@ -50,7 +58,7 @@
             "Key": "3f73bb5c-8b86-4c30-a7e4-1befb46378e9",
             "Value": {
                 "id": "cbc92572-5993-494b-bede-4ba6445f0297",
-                "resourcePath": "sprites\\s_Deinonychus\\s_Deinonychus.yy",
+                "resourcePath": "sprites\\s_gorilla_idle\\s_gorilla_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
